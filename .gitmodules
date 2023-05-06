@@ -1,3 +1,6 @@
 [submodule "HealthPlus"]
 	path = HealthPlus
 	url = https://github.com/Aditya-Dhodade/HealthPlus.git
+[submodule "HealthPlusWeb3"]
+	path = HealthPlusWeb3
+	url = https://github.com/vishal1677/HealthPlusWeb3.git
