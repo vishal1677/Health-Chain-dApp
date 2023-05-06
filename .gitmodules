@@ -4,3 +4,6 @@
 [submodule "HealthPlusWeb3"]
 	path = HealthPlusWeb3
 	url = https://github.com/vishal1677/HealthPlusWeb3.git
+[submodule "API_WCEHACK"]
+	path = API_WCEHACK
+	url = https://github.com/Aditya-Dhodade/API_WCEHACK.git
